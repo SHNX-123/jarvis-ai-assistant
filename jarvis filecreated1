@@ -1,0 +1,27 @@
+# JARVIS 3.0 – Your Personal AI Assistant 🤖  
+Built by **Shaan / SHAANX STUDIOS**
+
+![Jarvis Banner](banner.png)
+
+Jarvis 3.0 is a Python-based AI assistant with support for:
+- 💬 Chat (GPT-4)
+- 🧠 Knowledge Q&A
+- 📄 Generate PDF / DOCX / PPTX
+- 🎨 Image Generation via OpenAI DALL·E
+- 🗣️ Voice control (in advanced versions)
+
+## 🛠️ Features
+
+- `who created you`: Replies with creator name
+- `pdf: <text>`: Creates a PDF
+- `docx: <text>`: Creates a Word doc
+- `ppt: <text>`: Makes a PowerPoint
+- `image: <prompt>`: Generates an image using AI
+- General GPT-4 Q&A support
+
+## ⚙️ How to Run
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/yourusername/jarvis-ai.git
+cd jarvis-ai
